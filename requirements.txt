@@ -1,0 +1,8 @@
+scikit
+pandas
+numpy
+scipy
+seaborn
+statsmodels
+tensorflow
+xgboost
