@@ -1,4 +1,3 @@
-# Financial-News-Analyzer
-The idea behind this project is that there are plenty informations outside that the market struggles to incorporate into prices.
-We have mjltiple examples in the literature of news that got slowly incorporated into prices, and the explanation to this is most of the times a Behavioural one.
-The idea of this project is to feed a machine with data and try to see if we are able to extract useful informations out. The core idea is to use web scraping to gather sentiment and possible insights out of popular financial news services, that may lead to some sort of predictability of returs. 
+### Value Investing - Machine Learning
+During my studies I had the chance to read an inspiring paper that's called: Buﬀett’s Alpha (2018) by A. Frazzini, D. Kabiller and L. H. Pedersen.
+This paper was pretty inspiring and an idea jumped right into my mind, I want to try and replicate Buffet's strategy. Mimicking the world's best investor strategy is, of course, impossible. However, this paper highlights that his investment's decisions follow a core idea, invest in the long run in stocks that you truly think will be valuable. With this project I want to see if it's possible to replicate such a strategy using ML techniques; leveraging packages such as scikit-learn, numpy, seaborn, statsmodels, pandas, and TensorFlow.
