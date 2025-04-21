@@ -1,5 +1,17 @@
 # Value Investing - Machine Learning
-During my studies I had the chance to read an inspiring paper that's called: Buﬀett’s Alpha (2018) by A. Frazzini, D. Kabiller and L. H. Pedersen.
-This paper was pretty inspiring and an idea jumped right into my mind, I want to try and replicate Buffet's strategy. Mimicking the world's best investor strategy is, of course, impossible. However, this paper highlights that his investment's decisions follow a core idea, invest in the long run in stocks that you truly think will be valuable. With this project I want to see if it's possible to replicate such a strategy using ML techniques; leveraging packages such as scikit-learn, numpy, seaborn, statsmodels, pandas, and TensorFlow.
+During my studies, I had the chance to read an inspiring paper: Buffett’s Alpha (2018) by Andrea Frazzini, David Kabiller, and Lasse Heje Pedersen. This paper sparked an idea: I want to try replicating Buffett’s investment approach.
 
-This project will come up piece by piece. I have to figure out how to tackle the problem, wich tools are more suitable and I would also like to add some sort of sentiment analysis using LLMs.
+Of course, mimicking the world’s most successful investor is an ambitious goal—perhaps even impossible. However, the authors demonstrate that Buffett’s extraordinary track record can be largely explained by systematic exposure to certain factors: cheap, safe, high-quality stocks, combined with conservative leverage. His success is not just about intuition or luck, but about consistency in applying sound principles.
+
+Inspired by this, I'm building a project to explore whether machine learning techniques can be used to approximate Buffett’s strategy. I’ll be using tools like:
+
+- scikit-learn
+- pandas
+- numpy
+- seaborn
+- statsmodels
+- TensorFlow
+- 
+The project will grow piece by piece as I experiment with different modeling approaches, test ideas, and identify the most effective tools. I’m also planning to incorporate sentiment analysis using large language models (LLMs) to capture qualitative aspects of stock evaluation, potentially mimicking Buffett’s ability to assess intangibles like management quality or economic moats.
+
+Stay tuned—this is very much a work in progress.
