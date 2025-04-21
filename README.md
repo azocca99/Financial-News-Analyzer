@@ -1,3 +1,5 @@
-### Value Investing - Machine Learning
+# Value Investing - Machine Learning
 During my studies I had the chance to read an inspiring paper that's called: Buﬀett’s Alpha (2018) by A. Frazzini, D. Kabiller and L. H. Pedersen.
 This paper was pretty inspiring and an idea jumped right into my mind, I want to try and replicate Buffet's strategy. Mimicking the world's best investor strategy is, of course, impossible. However, this paper highlights that his investment's decisions follow a core idea, invest in the long run in stocks that you truly think will be valuable. With this project I want to see if it's possible to replicate such a strategy using ML techniques; leveraging packages such as scikit-learn, numpy, seaborn, statsmodels, pandas, and TensorFlow.
+
+This project will come up piece by piece. I have to figure out how to tackle the problem, wich tools are more suitable and I would also like to add some sort of sentiment analysis using LLMs.
